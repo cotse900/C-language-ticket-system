@@ -1,0 +1,25 @@
+Assignment 2
+Milestone 3-4
+Name   : Chungon Tse
+ID     : 154928188
+Email  : cotse@myseneca.ca
+Section: NFF
+
+1.
+a) commonHelpers.h
+-void stringToUpper(char *convertString);
+-int haveWhitespace(char* stringPtr, int length);
+b) account.h
+c) ticket.h
+d) accountTicketingUI.h
+-none developed
+
+2. I think functions were something good and handy. Writing functions is about breaking down a problem into smaller processes and procedures. This process known as decomposition encourages computational logical thinking about dealing with smaller problems as an integral part of programming. I looked up in course materials or the internet or other information that taught how to do certain things for certain small tasks. The abundance of menus in this exercise meant extensive use of functions and functions were something that programmers would probably swear by. If I needed to write a function in this exercise, then I would find possible answers, look into the logics, and formulate my own answer for use. In general, functions are also useful for other codes and other tasks outside this assignment and this course. Transferrable functions are useful for future use and personal growth.
+
+I increasingly found that flag variables were not just essential, but themselves a kind of art. Most people know variable names are a lot about styling. Flag variables are in this league. While applying the right flags or placing them is often optional and does not always affect whether an application idea is viable, flags could promote a given code by some extent depending on the circumstances and the programmer’s skills. The abundance of menus and menu options in this exercise shows the importance of flags as an actual topic in programming.
+
+3. Despite my fascination with flag variables, I have complaints centred around the abundance of menu and menu options mainly because of the need to validate various elements and pointers stood out from the rest as the most nerve-racking. It was not just about checking minute details of elements from structs to flags, but the need to play extra caution to pointing to the right things and debugging could be exhausting.
+
+Another annoying thing was the overall limitation of c in text formatting that accentuated so much in this exercise. I could imagine even seasoned programmers have issues with printf. It is not exactly only about submitting an assignment or whether we need fancy coding to set text alignment when there is no inherent alignment function in c. We were talking about having only a limited number of typed entries and yet over 100 pages of repetitive menus, and the real-world user would not need the latter. This was essentially some stressful situation. Whether in the role of writer or debugger, I would often find the right place for certain text insertions elusive. There was often no reliable way to tell what belonged where simply because there was no such help in c (or in VS as I knew it).
+
+My proposal about both problems is simple. I think people can first come up with working content, then expand content to repeat menus, and later on proceed to produce the entire very long output in this exercise. They should probably bite the bullet and proceed with the flow of massive logics and output that actually boil down to repetitive logics.
